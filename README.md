@@ -3,8 +3,8 @@ Objective:
 To analyze the raw data consisting of information regarding the vast variety of video games released and derive useful insights from it.
 
 Questions asked in the process of analyzing:
-What is the division of games on the basis of genres
-What platform is used the most for video games
+1. What is the division of games on the basis of genres
+2. What platform is used the most for video games
 Which is the top publisher of video games
 Top sales for a particular publisher
 Most popular game in best selling genre
